@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477533344 source:c:\users\kion_\documents\com sci\c++ basics\strings\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<cctype>
+	<cstdlib>
+

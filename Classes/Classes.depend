@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1479174159 source:c:\users\kion_\documents\com sci\c++ basics\classes\main.cpp
+	<iostream>
+	<Employee.h>
+	<MyApp.h>
+
+1478135120 c:\users\kion_\documents\com sci\c++ basics\classes\employee].h
+	<iostream>
+	<string>
+
+1478743750 source:c:\users\kion_\documents\com sci\c++ basics\classes\employee.cpp
+	<Employee.h>
+
+1478743663 c:\users\kion_\documents\com sci\c++ basics\classes\employee.h
+	<iostream>
+	<string>
+	<cstring>
+
+1479174378 c:\users\kion_\documents\com sci\c++ basics\classes\myapp.h
+	<iostream>
+	<string>
+
+1479174159 source:c:\users\kion_\documents\com sci\c++ basics\classes\myapp.cpp
+	<MyApp.h>
+
