@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479272004 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project 3\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+

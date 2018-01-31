@@ -1,0 +1,33 @@
+Contestant #1::1014567890 
+There Score was :: 90
+The incorrect answers were:: A
+The right answer was      :: C
+They got 9
+
+Contestant #2::1024567890 
+There Score was :: 40
+The incorrect answers were:: BABBDB
+The right answer was      :: ADCACA
+They got 4
+
+Contestant #3::1034567890 
+There Score was :: 60
+The incorrect answers were:: CBBC
+The right answer was      :: ACAB
+They got 6
+
+Contestant #4::1044567890 
+There Score was :: 50
+The incorrect answers were:: BAAAC
+The right answer was      :: ADCCA
+They got 5
+
+Contestant #5::1054567890 
+There Score was :: 60
+The incorrect answers were:: BAAC
+The right answer was      :: DCCB
+They got 6
+
+The Mean of correct answers was :: 8
+The median of the correct answer was ::6
+The mode of correct answers was ::6
