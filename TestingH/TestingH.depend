@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481236793 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\testingh\address.cpp
+	"Address.hpp"
+
+1481236793 c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\testingh\address.hpp
+	<iostream>
+	<string>
+

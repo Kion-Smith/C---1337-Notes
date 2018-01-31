@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477461127 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\testmagic\main.cpp
+	<iostream>
+	<iomanip>
+
