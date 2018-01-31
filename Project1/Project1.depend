@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472795422 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project1\main.cpp
+	<iostream>
+	<iomanip>
+	"main.h"
+
+1472795398 c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project1\main.h
+

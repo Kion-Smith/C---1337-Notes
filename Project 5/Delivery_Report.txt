@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------
+Type of Cargo :: Cans
+Weight of Cargo on starting planet :: Mercury :: 1000
+Weight of Cargo on ending planet :: Earth :: 3703.7
+Weight of Cargo on Earth :: 3703.7
+The distance traveled :: 57
+How long it will take in hour(s) :: 28.5
+How long it will take in day(s) :: 1.1875
+How long it will take in year(s) :: 0.00325342
+-----------------------------------------------------------------------
+Type of Cargo :: Pepes
+Weight of Cargo on starting planet :: Earth :: 100
+Weight of Cargo on ending planet :: Neptune :: 144
+Weight of Cargo on Earth :: 100
+The distance traveled :: 2700
+How long it will take in hour(s) :: 900
+How long it will take in day(s) :: 37.5
+How long it will take in year(s) :: 0.10274

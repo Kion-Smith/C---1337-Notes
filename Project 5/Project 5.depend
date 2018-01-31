@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1481285646 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project 5\main.cpp
+	"info.hpp"
+
+1481285646 c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project 5\info.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<stdlib.h>
+	<sstream>
+	"Planets.hpp"
+	"Shuttles.hpp"
+
+1481285646 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project 5\shuttles.cpp
+	"Shuttles.hpp"
+
+1481285646 c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project 5\shuttles.hpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+
+1481285646 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project 5\planets.cpp
+	"Planets.hpp"
+
+1481285646 c:\users\neonkion\desktop\personal stuff\cspromgram\c++ project\project 5\planets.hpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<string>
+
