@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1481072305 source:c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\address.cpp
+	"Address.hpp"
+
+1481072305 c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\address.hpp
+	<iostream>
+	<string>
+
+1481072305 source:c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\employee.cpp
+	"Employee.hpp"
+
+1481072441 c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\employee.hpp
+	<iostream>
+	<string>
+	"Address.hpp"
+	<string.h>
+
+1481072593 source:c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\main.cpp
+	"ClassesDemo.hpp"
+	"Employee.hpp"
+	"MyApp.hpp"
+
+1481072305 c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\classesdemo.hpp
+	<iostream>
+
+1481072889 c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\myapp.hpp
+	<iostream>
+	<string>
+
+1481072305 source:c:\users\neonkion\desktop\personal stuff\cspromgram\testing\first employee\myapp.cpp
+	"MyApp.hpp"
+
