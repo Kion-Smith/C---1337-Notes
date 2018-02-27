@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483650125 source:c:\users\neonkion\desktop\personal stuff\cspromgram\c++ games\console games\frogger(console)\main.cpp
+	<iostream>
+	"windows.h"
+
