@@ -1,0 +1,24 @@
+﻿  main.cpp
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(58): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(80): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(83): error C2440: '=': cannot convert from 'Point' to 'int'
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(83): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(84): error C2679: binary '=': no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(13): note: could be 'Point &Point::operator =(Point &&)'
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(13): note: or       'Point &Point::operator =(const Point &)'
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(84): note: while trying to match the argument list '(Point, int)'
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(97): error C2679: binary '=': no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(13): note: could be 'Point &Point::operator =(Point &&)'
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(13): note: or       'Point &Point::operator =(const Point &)'
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(97): note: while trying to match the argument list '(Point, int)'
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(103): error C2440: '=': cannot convert from 'Point' to 'int'
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(103): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(107): error C2228: left of '.y' must have class/struct/union
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(107): note: type is 'int'
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(107): error C2228: left of '.x' must have class/struct/union
+  c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(107): note: type is 'int'
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(134): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\neonkion\documents\visual studio 2015\projects\sfml\sfml\main.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
